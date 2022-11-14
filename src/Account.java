@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Account {
-
+    //variables for account
     String customerName;
     String customerId;
     Scanner input = new Scanner(System.in);
